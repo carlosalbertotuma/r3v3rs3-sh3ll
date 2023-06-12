@@ -4,7 +4,7 @@ Reverse shell.
 
 
 
-- chmod +x r33rs3-sh3ll.sh.sh
+- chmod +x r3v3rs3-sh3ll.sh
 - ./r3v3rs3-sh3ll.sh
 
 pode ser utilizo levantando um servidor python e chamando com curl
